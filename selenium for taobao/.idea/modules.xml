@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../selenium for 12306/.idea/publicweb.iml" filepath="$PROJECT_DIR$/../selenium for 12306/.idea/publicweb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/selenium for taobao.iml" filepath="$PROJECT_DIR$/.idea/selenium for taobao.iml" />
     </modules>
   </component>
 </project>
