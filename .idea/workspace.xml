@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoTestManager">
+    <enabled-run-configurations>
+      <run-configuration type="tests" name="Unittests in htmlTestRunner.py" />
+    </enabled-run-configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ecf5ec43-777d-4edb-be3a-ae3d0885c9c7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../python-workspace\exportToHTML" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="python-workspace" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="E:\python-workspace\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Sa6X0nlqC7wfpZBXgOfCIUq1cL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="ignore.virus.scanning.warn.message" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\python-workspace\project_auto_selenium\auto_selenium_2\driver " />
+      <recent name="E:\python-workspace\day01" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\python-workspace\javaScript" />
+      <recent name="E:\python-workspace\Scripts" />
+      <recent name="E:\python-workspace" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.email_1">
+    <configuration name="HtmlReport" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python-workspace" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/htmlTestRunner_demo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/htmlTestRunner_demo/HtmlReport.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="email" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python-workspace" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/邮箱" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="E:\python-workspace\邮箱\email_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="email——2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python-workspace" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/邮箱" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/邮箱/email——2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="email_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python-workspace" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/邮箱" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/邮箱/email_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in E:/python-workspace/htmlTestRunner_demo/demo.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="python-workspace" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/htmlTestRunner_demo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/htmlTestRunner_demo/demo.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.HtmlReport" />
+      <item itemvalue="Python.email" />
+      <item itemvalue="Python.email_1" />
+      <item itemvalue="Python.email——2" />
+      <item itemvalue="Python tests.Unittests in E:/python-workspace/htmlTestRunner_demo/demo.py" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.email_1" />
+        <item itemvalue="Python.email——2" />
+        <item itemvalue="Python.email" />
+        <item itemvalue="Python.HtmlReport" />
+        <item itemvalue="Python tests.Unittests in E:/python-workspace/htmlTestRunner_demo/demo.py" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ecf5ec43-777d-4edb-be3a-ae3d0885c9c7" name="Default Changelist" comment="" />
+      <created>1571789394926</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571789394926</updated>
+    </task>
+    <task id="LOCAL-00002" summary="selenium 基本操作">
+      <created>1575701219048</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1575701219048</updated>
+    </task>
+    <task id="LOCAL-00003" summary="selenium 基本操作">
+      <created>1575701592418</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1575701592418</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="selenium 基本操作" />
+    <option name="LAST_COMMIT_MESSAGE" value="selenium 基本操作" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="351" y="0" key="#Unittests_in_htmlTestRunner_demo" timestamp="1574548458347">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="351" y="0" key="#Unittests_in_htmlTestRunner_demo/0.0.1280.680@0.0.1280.680" timestamp="1574548458347" />
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1575701715430">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1575701715430" />
+    <state x="93" y="93" width="1095" height="495" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1574546433921">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1095" height="495" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1280.680@0.0.1280.680" timestamp="1574546433921" />
+    <state x="379" y="143" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1574504782994">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="379" y="143" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1574504782994" />
+    <state x="385" y="195" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1574549604624">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="385" y="195" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1280.680@0.0.1280.680" timestamp="1574549604624" />
+    <state x="283" y="0" key="CommitChangelistDialog2" timestamp="1575701591337">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="283" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1575701591337" />
+    <state width="738" height="466" key="DebuggerActiveHint" timestamp="1572476298026">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="738" height="466" key="DebuggerActiveHint/0.0.1280.680@0.0.1280.680" timestamp="1572476298026" />
+    <state x="93" y="93" width="1095" height="495" key="DiffContextDialog" timestamp="1575701961403">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1095" height="495" key="DiffContextDialog/0.0.1280.680@0.0.1280.680" timestamp="1575701961403" />
+    <state x="59" y="66" key="FileChooserDialogImpl" timestamp="1575237798219">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="59" y="66" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1575237798219" />
+    <state x="465" y="254" width="375" height="173" key="Github.CreateGistDialog" timestamp="1574504938574">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="465" y="254" width="375" height="173" key="Github.CreateGistDialog/0.0.1280.680@0.0.1280.680" timestamp="1574504938574" />
+    <state x="487" y="231" key="Github.ShareDialog" timestamp="1574504977061">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="487" y="231" key="Github.ShareDialog/0.0.1280.680@0.0.1280.680" timestamp="1574504977061" />
+    <state x="175" y="46" key="Github.UntrackedFilesDialog" timestamp="1574504988228">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="175" y="46" key="Github.UntrackedFilesDialog/0.0.1280.680@0.0.1280.680" timestamp="1574504988228" />
+    <state width="1259" height="119" key="GridCell.Tab.0.bottom" timestamp="1575701802707">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="119" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1575701802707" />
+    <state width="1259" height="119" key="GridCell.Tab.0.center" timestamp="1575701802707">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="119" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1575701802707" />
+    <state width="1259" height="119" key="GridCell.Tab.0.left" timestamp="1575701802707">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="119" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1575701802707" />
+    <state width="1259" height="119" key="GridCell.Tab.0.right" timestamp="1575701802707">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="119" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1575701802707" />
+    <state width="1259" height="219" key="GridCell.Tab.1.bottom" timestamp="1574552542815">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="219" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1574552542815" />
+    <state width="1259" height="219" key="GridCell.Tab.1.center" timestamp="1574552542815">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="219" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1574552542815" />
+    <state width="1259" height="219" key="GridCell.Tab.1.left" timestamp="1574552542815">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="219" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1574552542815" />
+    <state width="1259" height="219" key="GridCell.Tab.1.right" timestamp="1574552542815">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="219" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1574552542815" />
+    <state x="435" y="51" key="RollbackChangesDialog" timestamp="1574549387471">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="435" y="51" key="RollbackChangesDialog/0.0.1280.680@0.0.1280.680" timestamp="1574549387471" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1574549488211">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1574549488211" />
+    <state x="325" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1575701125860">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="325" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1575701125860" />
+    <state x="437" y="259" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1575701700454">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="437" y="259" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1575701700454" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1574632998081">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1574632998081" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/selenium元素操作/test01_linkTest.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/下拉框选择/下拉框选择.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/project_auto_selenium/auto_selenium_1/51job.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
