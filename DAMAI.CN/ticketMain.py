@@ -1,4 +1,4 @@
-import daiMai_1
+import daiMai
 import inputdata
 import multiprocessing
 
@@ -10,7 +10,7 @@ inputData = inputdata.ReadExcel(path)
 ListNum = inputData.dict_data()
 intList1 = int(ListNum[0][0])
 # 对象实例化
-daiMai_1 = daiMai_1.daiMai_1()
+daiMai_1 = daiMai.daiMai_1()
 if __name__ == '__main__':
     if ListNum[1][0] != '':
         intList2 = int(ListNum[1][0])
